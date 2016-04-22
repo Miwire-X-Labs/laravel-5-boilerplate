@@ -7,7 +7,7 @@
 
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <i class="fa fa-home"></i> {{ trans('navs.frontend.home') }}
+                    <i class="fa fa-home"></i> {{ trans('navs.general.home') }}
                 </div>
 
                 <div class="panel-body">

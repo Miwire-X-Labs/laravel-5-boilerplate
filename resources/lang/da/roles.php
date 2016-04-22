@@ -15,5 +15,4 @@ return [
 
     'administrator' => 'Administrator',
     'user' => 'Bruger',
-    'web_developer' => 'Web udvikler',
 ];
